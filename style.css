@@ -1,0 +1,35 @@
+/*
+ Theme Name:   Cranleigh Abu Dhabi
+ Theme URI:    https://www.cranleigh.ae
+ Description:  A Child Theme of the Cranleigh Senior School Site
+ Author:       Fred Bradley
+ Author URI:   http://fredbradley.uk
+ Template:     cranleigh-2016
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Text Domain:  cranleigh-2016
+*/
+
+.primary-navbar  {
+	background: #545759;
+	border:none;
+}
+.primary-navbar .navbar-nav>li>a {
+	font-family: "AspW-Rg", Arial;
+	text-transform: uppercase;
+	color:#fff;
+}
+.primary-navbar .navbar-nav>li>a:hover {
+	color: #FFC627;
+	text-decoration: underline;
+}
+
+header.site-header,
+footer.site-footer,
+.widget .widget-header {
+	background: #8CB7E8;
+}
+footer .ancillary {
+	color:#000;
+}

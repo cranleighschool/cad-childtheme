@@ -1,0 +1,17 @@
+{
+    "name": "fredbradley/cranleigh-blogs",
+    "description": "A child theme for Cranleigh School",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Fred Bradley",
+            "email": "frb@cranleigh.org"
+        }
+    ],
+	"autoload": {
+		"psr-4": {
+			"CranleighSchool\\CranleighBlogs\\": "app/"
+		}
+	},
+    "require": {}
+}
